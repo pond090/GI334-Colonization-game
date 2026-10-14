@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
   m_Name: Iroquois
   m_EditorClassIdentifier: Assembly-CSharp::FactionData
-  nation: 7
+  nation: 5
   isEuropean: 0
-  flagIcon: {fileID: 21300000, guid: 610f4e0dbc2e4da49a5e42884c81dca6, type: 3}
-  shieldIcon: {fileID: 21300000, guid: b22c6e28f75289e468abb65df0a88d3b, type: 3}
+  flagIcon: {fileID: -6970803876520621841, guid: 2a3070d012fe06947ad35fda311a3911, type: 3}
+  shieldIcon: {fileID: -6970803876520621841, guid: 2a3070d012fe06947ad35fda311a3911, type: 3}
   unitIcon: {fileID: 0}
-  townIcon: {fileID: 21300000, guid: 821d3783d7f72ab468a1a88c7538064f, type: 3}
+  townIcon: {fileID: 5167515808172609475, guid: 9c8371bf7714dab4283f1482c7522fd8, type: 3}
+  isTropicalNatives: 1

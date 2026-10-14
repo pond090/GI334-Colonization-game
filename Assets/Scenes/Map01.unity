@@ -171,6 +171,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isTropicalNatives
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -436,7 +444,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Huron
+      value: Comanche
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -477,6 +485,14 @@ PrefabInstance:
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isTropicalNatives
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -550,6 +566,14 @@ PrefabInstance:
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isEuropean
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -904,13 +928,13 @@ Transform:
   - {fileID: 1658390526}
   - {fileID: 1473725905}
   - {fileID: 1315161664}
-  - {fileID: 9545641}
   - {fileID: 1779489638}
   - {fileID: 1769596141}
   - {fileID: 2119572825}
   - {fileID: 327099014}
   - {fileID: 1789737199}
   - {fileID: 2043535009}
+  - {fileID: 9545641}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &619394800
@@ -1127,6 +1151,14 @@ PrefabInstance:
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isEuropean
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1809,7 +1841,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Sioux
+      value: Iroquois
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1850,6 +1882,14 @@ PrefabInstance:
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isTropicalNatives
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2401,6 +2441,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isEuropean
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2587,6 +2635,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isEuropean
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2731,7 +2787,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Apache
+      value: Tlingit
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2772,6 +2828,14 @@ PrefabInstance:
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isTropicalNatives
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2804,7 +2868,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Iroquois
+      value: Cherokee
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2845,6 +2909,14 @@ PrefabInstance:
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isTropicalNatives
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2877,7 +2949,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Maya
+      value: Aztec
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2918,6 +2990,14 @@ PrefabInstance:
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isTropicalNatives
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3071,6 +3151,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isEuropean
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3194,9 +3278,20 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f74c7a7c9bed7d74db0ba2de57160977, type: 2}
   - {fileID: 11400000, guid: 5e5888ebd0846cd4f9c4e795ffb1d6d5, type: 2}
   - {fileID: 11400000, guid: eca9540f40838db4eacd0db7e44a5b44, type: 2}
+  - {fileID: 11400000, guid: 6c3c2ff868e79f246a63c446907c69df, type: 2}
+  - {fileID: 11400000, guid: 3c3ed2306e1f3c14881f7384c9a7953b, type: 2}
+  - {fileID: 11400000, guid: 5b3901a781b4e77489551be04efe0057, type: 2}
+  - {fileID: 11400000, guid: 1bcfe14d2612fa944bcfa26d05553cdd, type: 2}
+  - {fileID: 11400000, guid: 3a508c034988ddd43968fba7dcaabc74, type: 2}
+  - {fileID: 11400000, guid: c48e90c39b2aad046a6e0090a6b339ca, type: 2}
+  - {fileID: 11400000, guid: 6a71929f45e09e349957a80394762c46, type: 2}
   navalUnitData:
   - {fileID: 11400000, guid: c2b629827c9821d4185b71e921d8e2b9, type: 2}
   - {fileID: 11400000, guid: 7a2216c04fddf454f9d2e84a0c848308, type: 2}
+  - {fileID: 11400000, guid: 9e330a9b4ab4d6349bcc1bc7b826c401, type: 2}
+  - {fileID: 11400000, guid: 7d009cb143888c64dbd10d569b9db60b, type: 2}
+  - {fileID: 11400000, guid: b7ff49c022b44c44e816a373171e9578, type: 2}
+  - {fileID: 11400000, guid: 46ae1e42839a28948946a9096d50af4b, type: 2}
   playerTurn: 1
   gameTurn: 1
   nativeTownNum: 0
@@ -3414,7 +3509,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Inca
+      value: Taino
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3455,6 +3550,14 @@ PrefabInstance:
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isTropicalNatives
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3487,7 +3590,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1616515148721791725, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_Name
-      value: Aztec
+      value: Navajo
       objectReference: {fileID: 0}
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3528,6 +3631,14 @@ PrefabInstance:
     - target: {fileID: 4754899754423875794, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: nation
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580724100156194318, guid: 563d3996364e6d345961e6141b1a93f2, type: 3}
+      propertyPath: isTropicalNatives
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

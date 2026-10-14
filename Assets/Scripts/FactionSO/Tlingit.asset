@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
+  m_Name: Tlingit
+  m_EditorClassIdentifier: Assembly-CSharp::FactionData
+  nation: 7
+  isEuropean: 0
+  flagIcon: {fileID: 4066124319365352369, guid: 7f8ec74fae8198844a1ff08fa2ac8b58, type: 3}
+  shieldIcon: {fileID: 4066124319365352369, guid: 7f8ec74fae8198844a1ff08fa2ac8b58, type: 3}
+  unitIcon: {fileID: 0}
+  townIcon: {fileID: 2760834467788299462, guid: c451dd54ca42a5949b4b30ddeb930f6e, type: 3}
+  isTropicalNatives: 1

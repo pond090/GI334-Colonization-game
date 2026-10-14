@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
+  m_Name: Navajo
+  m_EditorClassIdentifier: Assembly-CSharp::FactionData
+  nation: 8
+  isEuropean: 0
+  flagIcon: {fileID: -2384256098467184963, guid: 7a9b559007074ce48a6211deefb6312f, type: 3}
+  shieldIcon: {fileID: -2384256098467184963, guid: 7a9b559007074ce48a6211deefb6312f, type: 3}
+  unitIcon: {fileID: 0}
+  townIcon: {fileID: 5869614864462774650, guid: dc9a566baf33f7b4e88fc1376aa3a72a, type: 3}
+  isTropicalNatives: 1
