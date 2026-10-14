@@ -9,17 +9,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 120a4a38f74721d438b0e8a34c12956f, type: 3}
+  m_Script: {fileID: 11500000, guid: 9c6e664f78db6cf4ea442f2a32ce0257, type: 3}
   m_Name: 00_Ocean
   m_EditorClassIdentifier: Assembly-CSharp::HexData
   hexName: Ocean
   type: 0
   terrainSprites:
-  - {fileID: 21300000, guid: 85980b2265ff45344b1513252dd5d6ef, type: 3}
-  - {fileID: 21300000, guid: 4e30581d44e8de74b8cef8615a827296, type: 3}
-  - {fileID: 21300000, guid: e51d401b0ad3bfa458c17e39fa1d0fe2, type: 3}
-  - {fileID: 21300000, guid: 7b67d17dfc98d5848af25c32dd1051cd, type: 3}
-  forestSprites:
-  - {fileID: 0}
+  - {fileID: 21300000, guid: 574425846cafb814fb5c90091cb4ebe9, type: 3}
+  - {fileID: 21300000, guid: 25ae98f9c2333cc4ab828a7835e1212e, type: 3}
+  - {fileID: 21300000, guid: 2146bd22d55757340a0f1e5b04d4c65c, type: 3}
+  - {fileID: 21300000, guid: 37508a4e417246e4291c37a1034246f6, type: 3}
+  forestSprites: []
   resourceYield: 
   moveCost: 1

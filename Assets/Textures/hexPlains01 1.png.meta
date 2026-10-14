@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ec899af921175c24d9c25b8e44caa5d9
+guid: 495ce9d21e48acb4b89ec01e9ee99092
 labels:
 - Terrain
 - Ground
@@ -122,19 +122,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 512
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
